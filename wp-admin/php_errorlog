@@ -1,0 +1,1 @@
+[04-Dec-2014 04:26:54 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT option_value FROM wp_options WHERE option_name = 'woocommerce_mijireh_checkout_settings' LIMIT 1 made by include('wp-admin/admin-header.php'), do_action('admin_print_styles'), call_user_func_array, WC_Admin_Notices->add_notices, get_option
